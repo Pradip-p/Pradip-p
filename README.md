@@ -4,13 +4,13 @@ Hi! I’m Pradip, a student born and raised in Chitwan, Nepal. I have been pursu
 
 ### Skills:
 
-# Proficient in : Python, Pandas, Machine Learning, Deep Learning.
+### Proficient in : Python, Pandas,numpy, matplotlib, seaboarn, Machine Learning, Deep Learning.
 
-# Familiar with : Flask, Django, HTML, CSS, Beautiful Soup
+### Familiar with : Flask, Django, API, HTML, CSS, Beautiful Soup
 
-# Operating System: Linux (Ubuntu) and Windows
+### Operating System: Linux (Ubuntu) and Windows
 
-# Version Control : Git
+### Version Control : Git
 
 <!--
 **Pradip-p/Pradip-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
