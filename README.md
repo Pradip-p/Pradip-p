@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been pursuing my Bachelor degree (Information Technology) since 2016. I try to grab any opportunity I can in developing myself and enhancing my abilities. I am an interesting, fun-loving guy with a good sense of humor.
 
