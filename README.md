@@ -12,6 +12,9 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 
 #### Version Control : Git
 
+## Get Iin touch
+* linkedin : https://www.linkedin.com/in/pradip-thapa-36119719a/
+
 <!--
 **Pradip-p/Pradip-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
