@@ -6,7 +6,7 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 
 #### Proficient in : Python, Pandas, numpy, matplotlib, seaborn, Machine Learning, Deep Learning.
 
-#### Familiar with : Flask, Django, API, HTML, CSS, Beautiful Soup
+#### Familiar with : Flask, Django, API, HTML, CSS, Beautiful Soup,Postman, CURL
 
 #### Operating System: Linux (Ubuntu) and Windows
 
