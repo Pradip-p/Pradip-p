@@ -6,7 +6,7 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 
 #### Proficient in : Python, Pandas, numpy, matplotlib, seaborn, Machine Learning, Deep Learning.
 
-#### Familiar with : Flask, Django, API, HTML, CSS, Beautiful Soup,Postman, CURL
+#### Familiar with : Flask, Django, API, HTML, CSS, Beautiful Soup,Postman, CURL, PyQuery, Regex
 
 #### Operating System: Linux (Ubuntu) and Windows
 
@@ -15,7 +15,7 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 ## Get Iin touch
 * linkedin : https://www.linkedin.com/in/pradip-thapa-36119719a/
 
-<!--
+
 **Pradip-p/Pradip-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
