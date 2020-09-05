@@ -4,11 +4,11 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 
 ### Skills:
 
-#### Proficient in: Flask, Django, DRF, HTML, CSS, Beautiful Soup,Postman, CURL, PyQuery, Regex, Scrapy, Python, Pandas, numpy, matplotlib, seaborn.
-####  Familiar with :  Machine Learning, Deep Learning.
-#### Operating System: Linux (Ubuntu) and Windows
+#### Proficient in : Flask, Django, DRF, HTML, CSS, Beautiful Soup,Postman, CURL, PyQuery, Regex, Scrapy, Python, Pandas, numpy, matplotlib, seaborn.
+#### Familiar with :  Machine Learning, Deep Learning.
+#### Operating System: Linux (Ubuntu) and Windows.
 
-#### Version Control : Git
+#### Version Control : Git 
 
 ## Get Iin touch
 * linkedin : https://www.linkedin.com/in/pradip-thapa-36119719a/
