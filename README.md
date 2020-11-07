@@ -10,7 +10,7 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 
 #### Version Control : Git 
 
-## Get Iin touch
+## Get In touch
 * linkedin : https://www.linkedin.com/in/pradip-thapa-36119719a/
 
 <!--
