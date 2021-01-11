@@ -27,42 +27,33 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-
-
+[<code>
+<img alt="tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/800px-TensorFlowLogo.svg.png" />
+</code>](https://www.tensorflow.org/federated)
 [<code>
 <img alt="Scrapy python" width="26px" src="https://miro.medium.com/max/700/1*YJNS0JVl7RsVDTmORGZ6xA.png" />
 </code>](https://scrapy.org/)
-
 [<code>
 <img alt="Django python" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 </code>](https://www.djangoproject.com/)
-
 [<code>
 <img alt="Pandas python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 </code>](https://pandas.pydata.org/)
-
-
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
-
-
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
@@ -88,7 +79,6 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
-
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
@@ -118,5 +108,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 [facebook]: https://www.facebook.com/pradip.thapa.5473894/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/pradip_chhettri/
 [linkedin]: https://www.linkedin.com/in/pradip-thapa-36119719a/
