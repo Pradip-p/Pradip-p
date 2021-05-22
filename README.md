@@ -95,8 +95,10 @@ Hi! I’m **Pradip**, a student born and raised in Chitwan, Nepal. I have been p
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-[![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradip-p)](https://github.com/pradip-p/github-readme-stats)
 
+<a href="https://github.com/Pradip-p">
+![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradip-p&show_icons=true&theme=radical)
+</a>
 
 <a href="https://github.com/Pradip-p">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pradip-p&layout=compact&theme=radical" />
