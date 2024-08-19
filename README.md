@@ -11,11 +11,6 @@ I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thapa-pradip/) | [Email](mailto:pingpradip456@gmail.com)
 - ⚡ Fun fact: I love exploring new technologies!
 
-### GitHub Profile
-
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradip-p&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradip-p&theme=radical)
-
 ### 🛠️ Tools and Technologies
 
 - **Languages:** Python, SQL, JavaScript
@@ -23,7 +18,7 @@ I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial
 - **Libraries:** Scrapy, BeautifulSoup, TensorFlow, PyTorch
 - **Databases:** PostgreSQL, SQLite, MongoDB
 - **Tools:** Docker, Git, GitHub Actions
-- 
+  
 ### 📊 GitHub Activity
 
 ![Pradip's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pradip-p&theme=radical)
