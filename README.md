@@ -15,7 +15,6 @@ I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial
 
 ![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradip-p&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradip-p&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pradip-p&theme=radical)
 
 ### 🛠️ Tools and Technologies
 
