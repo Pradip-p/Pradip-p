@@ -19,10 +19,6 @@ I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial
 - **Databases:** PostgreSQL, SQLite, MongoDB
 - **Tools:** Docker, Git, GitHub Actions
 
-### 📊 GitHub Activity
-
-![Pradip's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pradip-p&theme=radical)
-
 ### Connect with Me
 
 - **LinkedIn:** [Pradip Thapa](https://www.linkedin.com/in/thapa-pradip/)
