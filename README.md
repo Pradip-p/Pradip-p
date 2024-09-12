@@ -23,4 +23,3 @@ I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial
 
 - **LinkedIn:** [Pradip Thapa](https://www.linkedin.com/in/thapa-pradip/)
 - **GitHub:** [Pradip-p](https://github.com/Pradip-p)
-- **Freelancer:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01ee22cde238a48b5e)
