@@ -4,7 +4,6 @@
 
 I am a Junior Backend Developer at **NAXA** with a strong interest in Artificial Intelligence and a passion for coding. I have experience in web scraping, backend development, and building machine learning models. I'm currently focusing on improving my skills in FastAPI, SQL, and AI.
 
-- 🔭 I’m currently working on [Lazy Crawler](https://github.com/Pradip-p/lazy-py-crawler) – A Python package for simplified web scraping.
 - 🌱 I’m currently learning advanced FastAPI and optimizing SQL queries.
 - 🤔 I’m looking for help with contributing to open-source AI projects.
 - 💬 Ask me about anything related to Python, web scraping, or backend development.
