@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I am a **Full Stack Developer & SaaS Specialist** with over **4+ years of professional experience** in building scalable backend systems, data pipelines, and automation tools. 
 
-- 👨‍💻 **Lead Backend Engineer** at **[NAXA](https://naxa.com.np/)**
+- 👨‍💻 **Backend Engineer** at **[NAXA](https://naxa.com.np/)**
 - ⚡ **SaaS Expert** on **[Upwork](https://www.upwork.com/freelancers/~01ee22cde238a48b5e)**
 - 🚁 **Automation & Drone Systems** enthusiast
 - 🏥 Creator of **E-Health-Care**
@@ -29,9 +29,9 @@ I am a **Full Stack Developer & SaaS Specialist** with over **4+ years of profes
 
 ### 🌟 Featured Projects
 
-- **[jobs-scrapper](https://github.com/Pradip-p/jobs-scrapper)**: Customized Scrapy framework for optimized extraction.
+- **[drone-tm](https://github.com/hotosm/drone-tm)**: Open-source Drone Tasking Manager for humanitarian response (Contributor).
 - **[crawlio](https://github.com/Pradip-p/crawlio)**: Extensible web crawling framework (Scrapy + Playwright).
-- **[drone-flightplan](https://github.com/Pradip-p/drone-flightplan)**: Drone flight planning and task management tools.
+- **[drone-flightplan](https://github.com/Pradip-p/drone-flightplan)**: Advanced drone flight planning and task management tools.
 - **[E-Health-Care](https://github.com/Pradip-p/E-Health-Care)**: AI-driven medical diagnostics platform.
 
 ---
@@ -39,11 +39,11 @@ I am a **Full Stack Developer & SaaS Specialist** with over **4+ years of profes
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-p&show_icons=true&theme=default&count_private=true" alt="Pradip's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-p&show_icons=true&theme=radical&count_private=true" alt="Pradip's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-p&layout=compact&theme=default&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-p&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-p&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-p&theme=radical" alt="GitHub Streak" />
 </div>
 
 <p align="center">
