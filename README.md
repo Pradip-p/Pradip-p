@@ -39,9 +39,9 @@ I am a **Full Stack Developer & SaaS Specialist** with over **4+ years of profes
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-p&show_icons=true&theme=radical&count_private=true" alt="Pradip's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pradip-p&show_icons=true&theme=radical&count_private=true" alt="Pradip's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-p&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pradip-p&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-p&theme=radical" alt="GitHub Streak" />
 </div>
