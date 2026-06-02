@@ -7,8 +7,6 @@ I am a **Full Stack Developer & SaaS Specialist** with over **4+ years of profes
 
 - 👨‍💻 **Backend Engineer** at **[KrispCall](https://krispcall.com/)**
 - ⚡ **Hire me** on **[Upwork](https://www.upwork.com/freelancers/~01ee22cde238a48b5e)**
-- 🚁 **Automation & Drone Systems** enthusiast
-- 🏥 Creator of **E-Health-Care**
 
 ---
 
